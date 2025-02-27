@@ -486,7 +486,7 @@
         ],
         "doap": "https://raw.githubusercontent.com/processone/ejabberd/master/ejabberd.doap",
         "name": "ejabberd",
-        "platforms": [],
+        "platforms": ["FreeBSD","Linux","macOS","Windows"],
         "url": null
     },
     {
